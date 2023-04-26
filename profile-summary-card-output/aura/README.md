@@ -25,10 +25,30 @@
 
 ---
 
+![](./1-repos-per-language.svg)
+
+```
+![](https://raw.githubusercontent.com/nosuke0926/nosuke0926/master/profile-summary-card-output/aura/1-repos-per-language.svg)
+```
+
+    
+
+---
+
 ![](./2-most-commit-language.svg)
 
 ```
 ![](https://raw.githubusercontent.com/nosuke0926/nosuke0926/master/profile-summary-card-output/aura/2-most-commit-language.svg)
+```
+
+    
+
+---
+
+![](./3-stats.svg)
+
+```
+![](https://raw.githubusercontent.com/nosuke0926/nosuke0926/master/profile-summary-card-output/aura/3-stats.svg)
 ```
 
     
